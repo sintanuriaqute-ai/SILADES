@@ -972,27 +972,7 @@ if (!$result) {
 3. **Code Organization**: Separate logic dari presentation
 4. **Security First**: Security considerations di setiap step
 
-## 14. Kesimpulan
-
-SILADES berhasil mengimplementasikan modern web development practices dengan fokus pada:
-
-1. **Responsive Design**: Optimal experience di semua devices
-2. **Performance**: Fast loading dengan local asset management
-3. **Accessibility**: WCAG-compliant interface
-4. **Maintainability**: Clean code architecture dengan CSS variables
-5. **User Experience**: Intuitive navigation dan micro-interactions
-6. **Security**: Comprehensive input validation dan output escaping
-
-### 14.1 Kontribusi Penelitian
-
-- Implementation modern CSS Grid dan Flexbox untuk complex layouts
-- Progressive enhancement strategy untuk backward compatibility  
-- Performance optimization melalui local dependency management
-- User-centric design dengan focus pada administrative workflows
-- Security-first approach dalam PHP development
-- Component-based CSS architecture untuk maintainability
-
-### 14.2 Saran Pengembangan Selanjutnya
+Saran Pengembangan Selanjutnya
 
 1. **Backend Integration**: Implementasi PHP backend dengan database MySQL
 2. **Authentication System**: User role management dan session handling
@@ -1002,17 +982,3 @@ SILADES berhasil mengimplementasikan modern web development practices dengan fok
 6. **Unit Testing**: PHPUnit untuk backend dan Jest untuk frontend
 7. **API Development**: RESTful API untuk mobile app integration
 
-## Daftar Pustaka
-
-1. Bootstrap Team. (2023). *Bootstrap 5.3 Documentation*. Retrieved from https://getbootstrap.com/docs/5.3/
-2. Mozilla Developer Network. (2023). *CSS Grid Layout*. Retrieved from https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-3. W3C Web Accessibility Initiative. (2023). *Web Content Accessibility Guidelines (WCAG) 2.1*
-4. Google Developers. (2023). *Web Fundamentals - Performance*. Retrieved from https://developers.google.com/web/fundamentals/performance
-5. Marcotte, Ethan. (2011). *Responsive Web Design*. A Book Apart.
-
----
-
-**Penulis**: SILADES Development Team  
-**Institusi**: [Nama Universitas]  
-**Tahun**: 2025  
-**Versi Dokumen**: 1.0.0
